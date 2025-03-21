@@ -39,3 +39,7 @@ The vision behind the **Randomized NFT Generator** is to provide a decentralized
 ## Contract Address
 0x23afb983B0fCeBf7ab567217832A6Dc098Fb2Ca3
 ![image](https://github.com/user-attachments/assets/49c24d71-7a99-400f-bc77-3722a4e83ae2)
+
+## Frontend
+![image](https://github.com/user-attachments/assets/22697165-819c-4831-9e34-33ee07217edb)
+
